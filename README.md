@@ -1,5 +1,7 @@
 # haze-contracts
 
+## Binance Smart Chain Deployments (https://bscscan.com/)
+
 hasher: `0xAd7fc245A37D4bEC90B0317E6Acef25534b42478`
 
 verifier: `0x901D2296D5c451dD1C8Bd16E46763EA2abdC011F`
