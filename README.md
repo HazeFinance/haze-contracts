@@ -22,7 +22,7 @@ TokenDistributorV1 (Deprecated): `0xb6D71E63E455A97C0757EC4a5b4eCf429BCace27`
 
 TokenDistributorV1: `0xb94c5EA660afA0Be2414293b69fbCF4e328FBA9d`
 
-TokenDistributorV2: `0x79239Bd8C707CD2d31db5F4aC82d7aD168533C2b`
+TokenDistributorV2: `0x8e2c3b4b62C745D42368a21b824B28e1288d1f6b`
 
 DepositRewardV1 (Deprecated): `0xe707a33A9E39084f8ebAc27DC9010F5b0f45AAe4`
 
